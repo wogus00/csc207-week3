@@ -17,8 +17,8 @@ Some of the features that we are considering are:
 # API Documentation
 [https://www.file.io/developers/]
 # Screenshot of using a tool to try out the API
-[![Screenshot 2023-09-28 at 1.07.16 PM.png](Screenshot%202023-09-28%20at%201.07.16%E2%80%AFPM.png)]
-This is an example of uploading a file on the server using file.io API. 
+![Screenshot 2023-09-28 at 1.07.41 PM.png](Screenshot%202023-09-28%20at%201.07.41%E2%80%AFPM.png)
+This is an example of uploading a file on the server using file.io API.
 # example output of running our Java code
 
 # list of any technical problems blocking progress
