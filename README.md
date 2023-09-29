@@ -15,11 +15,11 @@ Some of the features that we are considering are:
 4. email notifications
 
 # API Documentation
-[https://www.file.io/developers/]
+https://www.file.io/developers/
 # Screenshot of using a tool to try out the API
-![Screenshot 2023-09-28 at 1.07.41 PM.png](Screenshot%202023-09-28%20at%201.07.41%E2%80%AFPM.png)
+![](hoppscotchScreenshot.png)
 This is an example of uploading a file on the server using file.io API.
 # example output of running our Java code
-![Screenshot 2023-09-29 182620.png](Screenshot 2023-09-29 182620.png)
-This is the example output of running our java code.
+![](javaScreenshot.png)
+This is the example output of running our java code. Here, we are uploading a file "example_call.txt".
 # list of any technical problems blocking progress
