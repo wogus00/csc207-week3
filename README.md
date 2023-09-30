@@ -3,7 +3,7 @@
 - Makoto Takahara
 - Tatsuya Shiokawa
 - Kosei Uemura
-- Shuhan Sun
+- SHUAHN SUN
 # Project Description
 ## Collaborative Task Management Platform
 When working as a team, it is essential for all members to stay on track of the project by sharing their updates and organize meeting schedules with each other. 
