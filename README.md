@@ -23,7 +23,7 @@ This is an example of uploading a file on the server using file.io API.
 ![](javaScreenshot.png)
 This is the example output of running our java code. Here, we are uploading a file "example_call.txt".
 # list of any technical problems blocking progress
-- Configuration issues:
+- Configuration issue:
     - Initially, we were unaware that there was a need to modify the configuration settings to successfully run the main method in FileUploadUsingHttpURLConnection.java.
     - This took us about 30 minutes of debugging time to identify and resolve the issue, so that the code runs successfully now.
-- 
+
