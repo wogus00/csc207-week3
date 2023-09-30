@@ -12,7 +12,7 @@ Some of the features that we are considering are:
 1. task creation / deletion / completion 
 2. announcement for members 
 3. calendar for scheduling and deadlines 
-4. notifications to email address
+4. send notifications to email
 
 # API Documentation
 https://www.file.io/developers/
