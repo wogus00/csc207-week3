@@ -20,3 +20,7 @@ Some of the features that we are considering are:
 # example output of running our Java code
 
 # list of any technical problems blocking progress
+1. When we got an IOException error, we might want to have more information.
+2. We might have network issues such as connectivity issues, timeouts, or server errors.
+3. We also need to consider "OutOfMemoryError" especially for large files.
+4. We also want to make sure to not make conflict when two or more people try update.
