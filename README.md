@@ -30,3 +30,4 @@ This is the example output of running our java code. Here, we are uploading a fi
     - We might have network issues such as connectivity issues, timeouts, or server errors.
     - We also need to consider "OutOfMemoryError" especially for large files.
     - We also want to make sure to not make conflict when two or more people try update.
+    - We should first push our local changes into our own private branch. And then we merge our private branch into the main branch.
