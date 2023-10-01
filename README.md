@@ -29,4 +29,5 @@ This is the example output of running our java code. Here, we are uploading a fi
     - When we got an IOException error, we might want to have more information.
     - We might have network issues such as connectivity issues, timeouts, or server errors.
     - We also need to consider "OutOfMemoryError" especially for large files.
-    - We also want to make sure to not make conflict when two or more people try update.
+    - We also want to make sure to not make conflict when two or more people try update. 
+    - We also had problems with merging, but it has been resolved.
