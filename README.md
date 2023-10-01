@@ -26,4 +26,7 @@ This is the example output of running our java code. Here, we are uploading a fi
 - Configuration issue:
     - Initially, we were unaware that there was a need to modify the configuration settings to successfully run the main method in FileUploadUsingHttpURLConnection.java.
     - This took us about 30 minutes of debugging time to identify and resolve the issue, so that the code runs successfully now.
-
+    - When we got an IOException error, we might want to have more information.
+    - We might have network issues such as connectivity issues, timeouts, or server errors.
+    - We also need to consider "OutOfMemoryError" especially for large files.
+    - We also want to make sure to not make conflict when two or more people try update.
